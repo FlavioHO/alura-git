@@ -1,4 +1,4 @@
-1-DES
-2-Provocando conflito
-3-Estou alterando o arquivo de desenvolvimento.
+A-DES
+B-Provocando conflito
+C-Estou alterando o arquivo de desenvolvimento.
 4-ALTERA DES
