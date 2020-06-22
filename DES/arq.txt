@@ -1,3 +1,3 @@
-DES
-Provocando conflito
-Estou alterando o arquivo de desenvolvimento.
+A-DES
+B-Provocando conflito
+C-Estou alterando o arquivo de desenvolvimento.
