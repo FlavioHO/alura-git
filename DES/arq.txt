@@ -2,4 +2,4 @@ A-DES
 B-Provocando conflito
 C-Estou alterando o arquivo de desenvolvimento.
 4-ALTERA DES
-5-ALTERA DE NOVO
+5-ALTERA DE NOVO 3
